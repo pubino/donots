@@ -12,6 +12,8 @@
 	<string>1</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0.0</string>
+	<key>CFBundleIconFile</key>
+	<string>Donots.icns</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>LSMinimumSystemVersion</key>
